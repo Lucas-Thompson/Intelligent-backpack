@@ -1,4 +1,4 @@
-# This is a test_level Program meant for a primary contest, so don't expect much
+# This is a test_level Program
 
 ## Intro
 
