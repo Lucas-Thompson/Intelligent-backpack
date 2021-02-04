@@ -18,4 +18,4 @@ The hardware side we choose the arm-based development chip in the end due to the
 
 The development has been going under the strict idea of 'keep it simple' so the current server system uses a basic ASGI model, in order to give test to its original capability, we have a further plan to switch it to WSGI using Django. The user interface also apply to the same idea, we use Miniprogram to ensure its robustness(using qt5 or other method would cost tons of energy doing deployment).
 
-The NLP is quite simple, we managed to extract the data from the 
+The NLP is quite simple, we managed to extract the time data from the natural language inputs.
